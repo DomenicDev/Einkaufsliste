@@ -1,4 +1,4 @@
-﻿# Einkaufsliste
+# Einkaufsliste
 Test Project for University course (open source based software development)
 
 Dies ist die Zeile des Text-Branches.
@@ -14,6 +14,8 @@ Ich zocke gerne...
 
 ![PUBG](https://static.altchar.com/live/media/images/950x633_ct/11351_PUBG_PS4_9dc49d9e35558d5ead48306dd074bd25.jpg)
 
+Der Teil ist **von Tim**.
+![Pinguine](https://www.welt.de/img/reise/Fern/mobile124508590/9842500187-ci102l-w1024/Jackass-penguins-Spheniscus-demersus.jpg)
 
 
 
