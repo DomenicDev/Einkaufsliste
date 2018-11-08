@@ -25,3 +25,4 @@ Ich zocke gerne...
 | Win94  | 66          | 0.6       | 110  | 1.2          | 3                     | 2                    | Miramar Only                     |
 
 # Kar98k = beste Sniper
+![Bester Sniper](/download.jpg)
