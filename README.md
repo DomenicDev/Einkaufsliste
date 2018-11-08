@@ -1,4 +1,4 @@
-# Einkaufsliste
+﻿# Einkaufsliste
 Test Project for University course (open source based software development)
 
 Dies ist die Zeile des Text-Branches.
@@ -26,3 +26,5 @@ Ich zocke gerne...
 
 # Kar98k = beste Sniper
 ![Bester Sniper](https://d1u5p3l4wpay3k.cloudfront.net/battlegrounds_gamepedia_en/7/7e/Icon_weapon_Kar98k.png)
+
+Ich habe keine Ahnung was ich noch hinzufügen soll!!!
