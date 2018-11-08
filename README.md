@@ -25,3 +25,4 @@ Ich zocke gerne...
 | Win94  | 66          | 0.6       | 110  | 1.2          | 3                     | 2                    | Miramar Only                     |
 
 # Kar98k = beste Sniper
+![Bester Sniper](https://d1u5p3l4wpay3k.cloudfront.net/battlegrounds_gamepedia_en/7/7e/Icon_weapon_Kar98k.png)
